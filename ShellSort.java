@@ -1,8 +1,3 @@
-// Shell Sort algorithm
-// Version adapted from Sedgewick, R. Wayne, K.
-// Algorithms
-// https://www.geeksforgeeks.org/shell-sort/
-
 public class ShellSort {
     public void sort(int[]numbers){
         int n = numbers.length;
