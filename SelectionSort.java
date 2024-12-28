@@ -1,8 +1,3 @@
-// Selection Sort Algorithm
-// Version adapted from Sedgewick, R. Wayne, K.
-// Algorithms
-// https://www.geeksforgeeks.org/selection-sort-algorithm-2/
-
 public class SelectionSort {
     public void sort(int[]numbers){
         int n = numbers.length;
