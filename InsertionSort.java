@@ -1,8 +1,3 @@
-// Insertion Sort algorithm
-// Version adapted from Sedgewick, R. Wayne, K.
-// Algorithms
-// https://www.geeksforgeeks.org/insertion-sort-algorithm/
-
 public class InsertionSort{
 
     public void sort(int[]numbers){
